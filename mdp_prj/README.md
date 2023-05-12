@@ -1,4 +1,4 @@
-# mdp_prj
+# prj
 
 A new Flutter project.
 
